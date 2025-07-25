@@ -1,0 +1,26 @@
+    iframe {
+        width: 90vw;
+        max-width: 640px;
+        display: flex;
+        flex-direction: column;
+        background-color: #3d9ae2;
+        border-radius: 16px;
+    }
+
+    .quiz {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding: 20px;
+        margin: 20px auto;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quiz__titulo {
+        scroll-margin-top: 120px;
+        padding-bottom: 2.5rem;
+        font-size: var(--fonte-tamnho-titulo);
+        font-weight: 600;
+        font-family: var(--fonte-titulo);
+    }
