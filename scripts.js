@@ -155,7 +155,7 @@ function selectAnswer(e) {
 // Função para exibir a pontuação final
 function showScore() {
     resetState();
-    questaoEl.innerHTML = `Você acertou ${score} de ${questions.length} questões!p`;
+    questaoEl.innerHTML = `Você acertou ${score} de ${questions.length} questões!`;
     proximoBtn.innerHTML = "Reiniciar";
     proximoBtn.style.display = "block";
     document.getElementById('feedback').innerHTML = "";
