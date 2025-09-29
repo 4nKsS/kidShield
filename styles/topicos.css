@@ -12,7 +12,7 @@
 }
 
 .topicos__titulo {
-    font-size: var(--fonte-tamnho-titulo);
+    font-size: var(--fonte-tamanho-titulo);
     font-weight: 600;
     font-family: var(--fonte-titulo);
     scroll-margin-top: 120px

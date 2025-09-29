@@ -51,7 +51,7 @@
 }
 
 .imp__titulo {
-    font-size: var(--fonte-tamnho-titulo);
+    font-size: var(--fonte-tamanho-titulo);
     font-weight: 600;
     font-family: var(--fonte-titulo);
     padding: 3rem 0;
